@@ -1,0 +1,7 @@
+C:\Users\itske\Desktop\Term4\HCI\ChineseZodiacsLAB1\bin\Release\net7.0\publish\ChineseZodiacsLAB1.exe
+C:\Users\itske\Desktop\Term4\HCI\ChineseZodiacsLAB1\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\itske\Desktop\Term4\HCI\ChineseZodiacsLAB1\bin\Release\net7.0\publish\appsettings.json
+C:\Users\itske\Desktop\Term4\HCI\ChineseZodiacsLAB1\bin\Release\net7.0\publish\ChineseZodiacsLAB1.dll
+C:\Users\itske\Desktop\Term4\HCI\ChineseZodiacsLAB1\bin\Release\net7.0\publish\ChineseZodiacsLAB1.deps.json
+C:\Users\itske\Desktop\Term4\HCI\ChineseZodiacsLAB1\bin\Release\net7.0\publish\ChineseZodiacsLAB1.runtimeconfig.json
+C:\Users\itske\Desktop\Term4\HCI\ChineseZodiacsLAB1\bin\Release\net7.0\publish\ChineseZodiacsLAB1.pdb
